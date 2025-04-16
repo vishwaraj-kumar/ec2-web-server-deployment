@@ -22,6 +22,8 @@ In the "Launch Instance" form:
 
 <p align="center">
   <img src="Images/image01.png" alt="Instance Setting" width="70%"/>
+  <br>
+  <em>Figure: EC2 instance setting page</em>
   </p>
 
 
