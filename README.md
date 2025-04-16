@@ -46,7 +46,7 @@ For both ports, I allowed access from **Anywhere (0.0.0.0/0)** for testing purpo
 </p>
 
 ### ▶ Step 3: Connecting to EC2 via SSH
-Once the instance was running, I copied its **public IPv4 address** and opened my terminal. I navigated to the folder where my .pem fi le was saved, then ran this command to connect:
+Once the instance was running, I copied its **public IPv4 address** and opened my terminal. I navigated to the folder where my .pem file was saved, then run this command to connect:
 
 ```bash
 ssh -i "Your_pem_file_name.pem" ec2-user@<EC2_PUBLIC_IP>
@@ -139,10 +139,10 @@ This command makes sure that Apache starts automatically every time the instance
 - How to set up security groups for access
 - How to connect to a cloud server using SSH
 - How to install and run a web server
-- How to keep a fi xed IP using Elastic IP 
+- How to keep a fixed IP using Elastic IP 
 - How to host and view a website on the cloud
 
-This project gave me confi dence to work with cloud servers and host real websites on AWS. It was a great learning experience for me as a beginner in cloud computing.
+This project gave me confidence to work with cloud servers and host real websites on AWS. It was a great learning experience for me as a beginner in cloud computing.
 
 ---
 
