@@ -67,7 +67,7 @@ sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 ```
-- The fi rst command updates the system.
+- The first command updates the system.
 - The second one installs Apache web server.
 - The last two start Apache and make sure it starts automatically every time the server boots.
 
